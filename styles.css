@@ -283,6 +283,7 @@ input {
     font-weight: small;
     text-decoration: none;
     border-radius: 5px;
+    border-style: none;
 }
 
 .view-code-btn:hover {
